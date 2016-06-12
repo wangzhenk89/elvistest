@@ -7,3 +7,7 @@ var test = function () {
 var t1 = function () {
     return "hello"
 }
+
+var t2 = function () {
+    return 0;
+}
